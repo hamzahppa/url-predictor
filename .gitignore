@@ -6,3 +6,6 @@ Data/
 
 # Optional: Do not ignore .gitignore itself
 !.gitignore
+
+# Ignore macOS system file
+.DS_Store
